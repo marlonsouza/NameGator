@@ -6,7 +6,7 @@ Concept test project.
 ### client:
 * vue
 * vuex
-* bootstrap"
+* bootstrap
 * axios
 
 ### server:
